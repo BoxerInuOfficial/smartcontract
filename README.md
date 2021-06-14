@@ -1,2 +1,2 @@
 # smartcontract
-Boxer.finance smartcontract
+Boxerinu.finance smartcontract
