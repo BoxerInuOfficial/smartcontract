@@ -22,7 +22,7 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 🐶70 % Liquidity\
 🐶SoftCap: 2000 BNB\
 🐶HardCap: 3000 BNB\
-🐶Presale Start time:\ 
+🐶Presale Start time:
 
 # Website and Social Media
 * TELEGRAM : https://t.me/BoxerInuOfficial
