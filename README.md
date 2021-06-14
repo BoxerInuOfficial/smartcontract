@@ -15,7 +15,7 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 🐶10 % Total Tax Fee\
 🐶4 % Rewards\
 🐶3 % Auto LP Generation Mechanism\ 
-🐶2 % Donation-Charity\
+🐶2 % Charity\
 🐶1 % Auto Burn\
 🐶Min: 0.1 BNB\
 🐶Max: 5 BNB\
