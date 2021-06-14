@@ -14,7 +14,7 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 🐶Supply: 1,000,000,000,000,000 BOXER\
 🐶10 % Total Tax Fee\
 🐶4 % Rewards\
-🐶3 % Auto LP GenerationMechanism\
+🐶3 % Auto LP Generation Mechanism\
 🐶2 % Charity\
 🐶1 % Auto Burn\
 🐶Min: 0.1 BNB\
