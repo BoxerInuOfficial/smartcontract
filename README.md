@@ -13,21 +13,21 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 * VERIFIED CONTRACT : https://bscscan.com/address/0xe96051a0d033b9aa57bac2cc6907af6897426154
 
 ![rsz_14](https://user-images.githubusercontent.com/85898015/122566602-65dee680-d050-11eb-8dc4-5b0d6b6653f6.png)\
-🐶Name : BoxerINU\
-🐶Symbol : BOXER\
-🐶Supply: 1,000,000,000,000,000 BOXER\
-🐶10 % Total Tax Fee (4% Rewards, 3% Auto LP Generation Mechanism, 2% Charity, 1% Auto Burn)\
-🐶50 % Presale\
-🐶27 % Listings & Liquidity\
-🐶15 % Burn\
-🐶6 % Team & Dev Wallet\
-🐶2 % Platform fee\
-🐶Min: 0.1 BNB\
-🐶Max: 5 BNB\
-🐶SoftCap: 2000 BNB\
-🐶HardCap: 3000 BNB\
-🐶Presale Start time: 20 Jun 2021 at 18:00\
-🐶Presale End Time:	21 Jun 2021 at 18:00
+🦴Name : BoxerINU\
+🦴Symbol : BOXER\
+🦴Supply: 1,000,000,000,000,000 BOXER\
+🦴10 % Total Tax Fee (4% Rewards, 3% Auto LP Generation Mechanism, 2% Charity, 1% Auto Burn)\
+🦴50 % Presale\
+🦴27 % Listings & Liquidity\
+🦴15 % Burn\
+🦴6 % Team & Dev Wallet\
+🦴2 % Platform fee\
+🦴Min: 0.1 BNB\
+🦴Max: 5 BNB\
+🦴SoftCap: 2000 BNB\
+🦴HardCap: 3000 BNB\
+🦴Presale Start time: 20 Jun 2021 at 18:00\
+🦴Presale End Time:	21 Jun 2021 at 18:00
 
 # Website and Social Media
 * TELEGRAM : https://t.me/BoxerInuOfficial
