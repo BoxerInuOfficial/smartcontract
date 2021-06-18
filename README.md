@@ -26,7 +26,8 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 🐶Max: 5 BNB\
 🐶SoftCap: 2000 BNB\
 🐶HardCap: 3000 BNB\
-🐶Presale Start time:
+🐶Presale Start time: 20 Jun 2021 at 18:00\
+🐶Presale End Time:	21 Jun 2021 at 18:00\
 
 # Website and Social Media
 * TELEGRAM : https://t.me/BoxerInuOfficial
@@ -35,7 +36,7 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 * GITHUB : https://github.com/BoxerInuOfficial
 
 # Presale
-* Our DxSale Page:\
+* Our DxSale Page:https://dxsale.app/app/pages/defipresale?saleID=3891&chain=BSC\
 🐶 Join Our Telegram Channel To Join The Discussion 🐶
 
 # How To Buy BOXER Inu
