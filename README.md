@@ -27,7 +27,7 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 🐶SoftCap: 2000 BNB\
 🐶HardCap: 3000 BNB\
 🐶Presale Start time: 20 Jun 2021 at 18:00\
-🐶Presale End Time:	21 Jun 2021 at 18:00\
+🐶Presale End Time:	21 Jun 2021 at 18:00
 
 # Website and Social Media
 * TELEGRAM : https://t.me/BoxerInuOfficial
