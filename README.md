@@ -42,7 +42,7 @@ Download/install metamask from Chrome at this link: (https://metamask.io/downloa
 Switch to BSC Network MetaMask to Binance Smart Chain You can buy $BOXER with the BSC network only.
 
 03. Visit our DxSale Page
-Open our DxSale page. (Click Here) And buy BOXER tokens
+Open our DxSale page. And buy BOXER tokens
 
 04. How To Participate And Invest In DxSale Launchpad Step By Step Investing on crowdsales via DxSale:
 Check it our here: https://www.youtube.com/watch?v=iAZVoOONAIg
