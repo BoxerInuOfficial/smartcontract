@@ -14,12 +14,12 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 🐶Supply: 1,000,000,000,000,000 BOXER\
 🐶10 % Total Tax Fee (4% Rewards, 3% Auto LP Generation Mechanism, 2% Charity, 1% Auto Burn)\
 🐶50 % Presale\
-🐶16 % Burn\
-🐶2 % Development\
+🐶27 % Listings & Liquidity\
+🐶15 % Burn\
+🐶6 % Team & Dev Wallet\
 🐶2 % Platform fee\
 🐶Min: 0.1 BNB\
 🐶Max: 5 BNB\
-🐶70 % Liquidity\
 🐶SoftCap: 2000 BNB\
 🐶HardCap: 3000 BNB\
 🐶Presale Start time:
