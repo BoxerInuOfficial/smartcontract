@@ -36,7 +36,7 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 * GITHUB : https://github.com/BoxerInuOfficial
 
 # Presale
-* Our DxSale Page:https://dxsale.app/app/pages/defipresale?saleID=3891&chain=BSC \
+* Our DxSale Page: https://dxsale.app/app/pages/defipresale?saleID=3891&chain=BSC \
 🐶 Join Our Telegram Channel To Join The Discussion 🐶
 
 # How To Buy BOXER Inu
