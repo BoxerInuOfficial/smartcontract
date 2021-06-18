@@ -31,7 +31,7 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 * GITHUB : https://github.com/BoxerInuOfficial
 
 # Presale
-*Presale Start time:\
+* Presale Start time:\
 🐶 Join Our Telegram Channel To Join The Discussion 🐶
 
 # How To Buy BOXER Inu
