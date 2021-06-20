@@ -35,7 +35,7 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 * TWITTER :  https://twitter.com/InuBoxer
 * GITHUB : https://github.com/BoxerInuOfficial
 * AUDIT : https://github.com/TechRate/Smart-Contract-Audits/blob/main/BoxerInu%20Full%20Smart%20Contract%20Security%20Audit.pdf
-* 
+
 # Presale
 * Our DxSale Page: https://dxsale.app/app/pages/defipresale?saleID=3955&chain=BSC \
 🐶 Join Our Telegram Channel To Join The Discussion 🐶
