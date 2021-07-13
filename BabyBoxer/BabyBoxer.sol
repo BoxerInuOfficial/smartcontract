@@ -69,7 +69,7 @@ contract BabyBoxer is BEP20Base, Ownable {
         _inSwap = false;
     }
 
-    constructor() BEP20Base("BabyBoxer", "BBoxer", 9, 888888888888888 ether) {
+    constructor() BEP20Base("BabyBoxer", "BBoxer", 9, 888888888888888 * 10**9) {
         ISwapRouterV2 _swapRouter = ISwapRouterV2(_swapRouterAddress);
         swapRouter = _swapRouter;
         swapPair = ISwapV2Factory(_swapRouter.factory()).createPair(
@@ -84,10 +84,10 @@ contract BabyBoxer is BEP20Base, Ownable {
         addToExcludeList(_deadAddress);
         addToExcludeList(_msgSender());
 
-        _rTotal = ~uint256(0) - (~uint256(0) % 888888888888888 ether);
+        _rTotal = ~uint256(0) - (~uint256(0) % (888888888888888 * 10**9));
         _rOwned[_msgSender()] += _rTotal;
-        _balances[_msgSender()] += 888888888888888 ether;
-        emit Transfer(address(0), _msgSender(), 888888888888888 ether);
+        _balances[_msgSender()] += 888888888888888 * 10**9;
+        emit Transfer(address(0), _msgSender(), 888888888888888 * 10**9);
     }
 
     receive() external payable {}
@@ -114,6 +114,7 @@ contract BabyBoxer is BEP20Base, Ownable {
             account != _swapRouterAddress,
             "BEP20: You can't exclude swap router"
         );
+        require(_excludeListStorage.length <= 10, "BEP20: You can't exclude more than 10 addresses");
 
         _excludeListStorage.push(account);
         _excludeList[account].contains = true;
